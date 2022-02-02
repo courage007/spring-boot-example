@@ -10,3 +10,7 @@ spring-boot-starter是Spring Boot的示例程序。仅添加了对Spring Boot St
 ## spring-boot-web-starter
 
 spring-boot-web-starter是Spring Boot Web的示例程序。该模块创建了一个自定义的控制器，方便实现接口调用。  
+
+## ## spring-boot-log
+
+spring-boot-web-starter是Spring Boot集成log的示例程序。这里选用的日志框架是SLF4J+Log4j2。  
