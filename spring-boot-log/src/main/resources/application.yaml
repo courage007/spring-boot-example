@@ -1,0 +1,9 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: spring-boot-log
+
+# 日志
+    logging:
+      config: classpath:log4j2.xml
