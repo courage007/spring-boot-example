@@ -2,4 +2,4 @@ server:
   port: 8081
 spring:
   application:
-    name: spring-starter-web
+    name: spring-boot-starter
